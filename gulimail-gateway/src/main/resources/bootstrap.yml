@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        namespace: 255ecde5-b2b0-4cc9-93f9-406a94554dfc
+        server-addr: 127.0.0.1:8848
+  application:
+    name: gulimail-gateway
